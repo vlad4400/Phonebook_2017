@@ -1,0 +1,21 @@
+.column {
+  width: 180px;
+  display: inline-table;
+}
+
+.column .mini_head {
+  color: rgb(230, 160, 0);
+  position: relative;
+  bottom: 10px;
+}
+
+#vs {
+  position: relative;
+  left: 33%;
+  top: 5px;
+}
+
+#btn {
+  position: relative;
+  float: right;
+}

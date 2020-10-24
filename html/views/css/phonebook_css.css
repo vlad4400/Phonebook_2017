@@ -1,0 +1,35 @@
+.block_customer .subhead {
+  width: 555px;
+  height: 35px;
+}
+
+.block_customer .subhead .name {
+  display: inline-block;
+  text-align: left;
+  width: 445px;
+  font-size: 24px;
+}
+
+.block_customer .subhead .link {
+  display: inline-block;
+  text-align: right;
+  width: 100px;
+  color: blue;
+  font-size: 14px;
+  cursor: pointer;
+}
+
+.block_customer .data {
+  width: 550px;
+  background-color: white;
+  border: 1px solid rgb(198, 198, 198);
+  overflow-x: hidden;
+  overflow-y: hidden;
+
+  /*alignment title 'login'*/
+  font-size: 12px;
+
+  /*begin value*/
+  border-bottom: 1px;
+  margin-bottom: 20px;
+}

@@ -1,0 +1,9 @@
+to fix:
+	button 'login' on press;
+	unknown authorization bug
+
+to create:
+	phonebook > views details;
+	password caching + salt
+	additional session protection
+	check phonenumbers and emails
